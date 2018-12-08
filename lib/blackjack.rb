@@ -1,8 +1,11 @@
 def welcome
   # code #welcome here
+  puts "Welcome to the Blackjack Table"
+  
 end
 
 def deal_card
+  
   # code #deal_card here
 end
 
@@ -27,6 +30,7 @@ def initial_round
 end
 
 def hit?
+  
   # code hit? here
 end
 
